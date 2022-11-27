@@ -7,3 +7,4 @@ print(y)
 plt.xlabel('X-axis')
 plt.ylabel('Y-axis')
 
+
