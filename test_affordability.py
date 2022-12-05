@@ -10,6 +10,7 @@ from datetime import datetime
 import logging
 import pytest_check as check
 
+
 @allure.severity(allure.severity_level.MINOR)
 class Test_Metro_Area_Datatest:
     params = config()
