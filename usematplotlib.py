@@ -7,4 +7,5 @@ print(y)
 plt.xlabel('X-axis')
 plt.ylabel('Y-axis')
 
-
+plt.xlabel('Xx-axis')
+plt.ylabel('Yy-axis')
